@@ -1,0 +1,1 @@
+This folder is full of intro projects for HTML.
